@@ -1,0 +1,9 @@
+node_modules
+.env
+public/categoryImg/*
+public/profileImg/*
+public/topicImg/*
+public/avatarImg/*
+public/questionnairesImg/*
+public/accountTypeImg/*
+public/trashFiles/*
